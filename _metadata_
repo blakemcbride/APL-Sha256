@@ -1,0 +1,19 @@
+package_name: apl-sha256
+package_prefix: hash
+package_version: 0 1
+depends_on: 
+date: 2015-09-10
+keyword: SHA-256
+keyword: crypto
+keyword: hash
+keyword: FIPS 180-4
+author: David B. Lamkins
+email: email@lamkins.net
+organization: 
+author-1: Mike Duvros
+email-1: 
+license: 
+description: An implementation of FIPS 180-4 SHA-256.
+document_file: 
+document_name: 
+home_repository: https://github.com/TieDyedDevil/apl-sha256.pkg
